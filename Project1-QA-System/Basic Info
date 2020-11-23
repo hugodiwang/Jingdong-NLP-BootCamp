@@ -1,0 +1,11 @@
+Basic Info:
+This is the first project of the Greedy-tech NLP Camp. Our goal is to understand each part of the NLP task and build a retrieval-based QA system.
+The organization of this project is as follows:
+Part 1: build a word segmentation tool with the enumeration method
+part 2: apply the Viterbi algorithm to decrease the time complexity
+part 3: understand the dataset, which involves the question-answer pair
+part 4: text preprocessing
+part 5: word representation with tf-idf method
+part 6: find the top 5 answers to a testing question by comparing the testing question's cosine similarity with the questions in the data set
+part 7: apply the inverted index to decrease the time complexity
+part 8: replace the tf-idf word representation with the word2vec method
